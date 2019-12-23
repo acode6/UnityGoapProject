@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5f313d094a43aea478e6325290b21354
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_PlanningDefinition: {fileID: 11400000, guid: a748d2792a75a0341ae753f490286b8a,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
